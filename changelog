@@ -1,0 +1,15 @@
+V0.2:
++ Added function call timer
++ Added Stabilizer Function
+
+V0.3:
++ Added fading warnings
++ Added log register
+
+V0.3b:
++ Added extra safety layers
+
+V0.5.2.2 beta:
++ New pingCheck Function
++
++
