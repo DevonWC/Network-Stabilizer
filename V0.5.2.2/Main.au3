@@ -2,7 +2,7 @@
 
  AutoIt Version: 3.3.12.0
  Author:         DevonWC
- Version:        0.3b
+ Version:        0.5.2.2 beta
 
  Script Function:
 	Always running checker for network availability and network stabilizer.
